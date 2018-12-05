@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Aba2Naija</string>
+    <string name="userName">Username:</string>
+    <string name="email">Email:</string>
+    <string name="password">Password:</string>
+    <string name="register">Register</string>
+    <string name="alreadyRegistered">Already Registered?</string>
+    <string name="login">Login</string>
+    <string name="emailAdress">example@gmail.com</string>
+    <string name="phone">Phone:</string>
+    <string name="confirmPassword">Confirm your password</string>
+    <string name="confirmpasswordExample">***********</string>
+    <string name="phoneNumber">08012345678</string>
+    <string name="passwordExample">**********</string>
+    <string name="userNameexample">John_Smith</string>
+</resources>
